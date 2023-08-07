@@ -1,0 +1,21 @@
+.row {
+    /* background-color: brown; */
+    padding: 12px;
+}
+
+.itemInput {
+    background-color: aliceblue;
+    width: 80%;
+    padding: 12px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.addbutton {
+    background-color: lightblue;
+    padding: 12px 20px;
+    margin: 12px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
